@@ -175,7 +175,7 @@ end)
 
 
 
-local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/wy4vTkmn"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/imaginedh1/sadfsafdsa/main/sdad"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
